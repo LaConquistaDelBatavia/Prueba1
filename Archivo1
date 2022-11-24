@@ -16,4 +16,4 @@ while Contador < 10:
     if n1 < n2:
         print ("el primer número es menor que el segundo")
     
-    Contador = (Contador+1)
+    Contador = (Contador+1)   
